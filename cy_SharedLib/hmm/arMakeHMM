@@ -1,0 +1,14 @@
+CPPC=g++
+CFLAGS= -O3
+LIBS=-larmadillo -llapack -lblas
+
+SRCCPP=$(wildcard *.cpp)
+
+OBJCPP=$(patsubst %.cpp,%.o,$(SRCCPP))
+
+%.o : %.cpp
+	$(CPPC) -c $(CFLAGS) -I../common -o ../build/$@ $<
+
+all: $(OBJCPP)
+	@echo '+++++++++++++ HMM::Done +++++++++++++'
+

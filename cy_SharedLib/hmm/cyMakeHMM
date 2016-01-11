@@ -1,0 +1,21 @@
+all:
+	cython --cplus cyBakis.pyx
+	cython --cplus cyBaumWelch.pyx
+	cython --cplus cyCalcForward.pyx
+	cython --cplus cyCalcBackward.pyx
+	g++ -fno-strict-aliasing -g -fwrapv -O3 -Wall -fPIC -c -I/usr/include/python2.7 -I/usr/lib/python2.7/dist-packages/numpy/core/include cyBakis.cpp -o ../build/cyBakis.o
+	g++ -fno-strict-aliasing -g -fwrapv -O3 -Wall -fPIC -c -I/usr/include/python2.7 -I/usr/lib/python2.7/dist-packages/numpy/core/include cyBaumWelch.cpp -o ../build/cyBaumWelch.o
+	g++ -fno-strict-aliasing -g -fwrapv -O3 -Wall -fPIC -c -I/usr/include/python2.7 -I/usr/lib/python2.7/dist-packages/numpy/core/include cyCalcForward.cpp -o ../build/cyCalcForward.o
+	g++ -fno-strict-aliasing -g -fwrapv -O3 -Wall -fPIC -c -I/usr/include/python2.7 -I/usr/lib/python2.7/dist-packages/numpy/core/include cyCalcBackward.cpp -o ../build/cyCalcBackward.o
+	g++ -c -O3 -fPIC -I./ -I../common Bakis.cpp -o ../build/Bakis.o
+	g++ -c -O3 -fPIC -I./ -I../common BaumWelch.cpp -o ../build/BaumWelch.o
+	g++ -c -O3 -fPIC -I./ -I../common CalcForward.cpp -o ../build/CalcForward.o
+	g++ -c -O3 -fPIC -I./ -I../common CalcBackward.cpp -o ../build/CalcBackward.o
+	g++ -shared ../build/Bakis.o ../build/cyBakis.o -larmadillo  -llapack -lblas -o ../build/cyBakis.so
+	g++ -shared ../build/BaumWelch.o ../build/cyBaumWelch.o -larmadillo  -llapack -lblas -o ../build/cyBaumWelch.so
+	g++ -shared ../build/CalcBackward.o ../build/cyCalcBackward.o -larmadillo  -llapack -lblas -o ../build/cyCalcBackward.so
+	g++ -shared ../build/CalcForward.o ../build/cyCalcForward.o -larmadillo  -llapack -lblas -o ../build/cyCalcForward.so
+	@echo '+++++++++++++ HMM::Done +++++++++++++'
+
+clean:
+	rm -f cyBakis.cpp cyBaumWelch.cpp cyCalcBackward.cpp cyCalcForward.cpp

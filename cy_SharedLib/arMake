@@ -1,0 +1,19 @@
+CPPC=g++
+CFLAGS= -O3
+LIBS=-larmadillo
+
+LIBOBJCPP=$(wildcard ./build/*.o)
+
+SRCCPP=$(wildcard *.cpp)
+
+OBJCPP=$(patsubst %.cpp,%.o,$(SRCCPP))
+
+%.o : %.cpp
+	$(CPPC) -c $(CFLAGS) -o $@ $<
+
+all: $(OBJCPP) $(LIBOBJCPP)
+	$(CPPC) $^ $(LIBS) -o cy_SharedLib.exe
+	@echo '+++++++++++++ Build::Done +++++++++++++'
+
+clean:
+	rm -f *.o cy_SharedLib.exe

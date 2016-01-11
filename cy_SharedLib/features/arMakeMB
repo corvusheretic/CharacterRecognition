@@ -1,0 +1,13 @@
+CPPC=g++
+CFLAGS= -O3
+LIBS=-larmadillo
+
+SRCCPP=$(wildcard *.cpp)
+
+OBJCPP=$(patsubst %.cpp,%.o,$(SRCCPP))
+
+%.o : %.cpp
+	$(CPPC) -c $(CFLAGS) -I../common -o ../build/$@ $<
+
+all: $(OBJCPP)
+	@echo '+++++++++++++ Marti-Bunke::Done +++++++++++++'

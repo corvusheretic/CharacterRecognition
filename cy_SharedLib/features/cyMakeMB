@@ -1,0 +1,9 @@
+all:
+	cython --cplus cyMartiBunke.pyx
+	g++ -fno-strict-aliasing -g -fwrapv -O3 -Wall -fPIC -c -I/usr/include/python2.7 -I/usr/lib/python2.7/dist-packages/numpy/core/include cyMartiBunke.cpp -o ../build/cyMartiBunke.o
+	g++ -c -O3 -fpic -I./ -I../common -larmadillo MartiBunke.cpp -o ../build/MartiBunke.o
+	g++ -shared ../build/MartiBunke.o ../build/cyMartiBunke.o -o ../build/cyMartiBunke.so
+	@echo '+++++++++++++ Marti-Bunke::Done +++++++++++++'
+
+clean:
+	rm -f cyMartiBunke.cpp
