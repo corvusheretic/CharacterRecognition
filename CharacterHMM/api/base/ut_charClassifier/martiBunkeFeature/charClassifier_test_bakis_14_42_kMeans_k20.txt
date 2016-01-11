@@ -1,0 +1,156 @@
+Character s:
+Accuracy: 0.0
+['u', 'C', 'o', 'B', 'C', 'c', 'C', 'C', 'Q', 'C', 'Q', 'C', 'C', 'n', 'Q', 'C', 'o', 'C', 'C', 'o']
+Character i:
+Accuracy: 0.0
+['C', 'Q', 'u', 's', 'C', 'u', 'q', 'C', 'C', 'C', 'B', 'C', 'z', 'q', 'C', 'o', 'z', 'C', 's', 'C']
+Character W:
+Accuracy: 0.0
+['u', 'u', 'u', 'z', 'u', 'u', 'C', 'u', 'C', 'q', 'u', 'o', 'C', 'q', 'z', 'u', 'u', 'i', 'u', 'u']
+Character E:
+Accuracy: 0.0
+['q', 'C', 'q', 'B', 'u', 'c', 'B', 'Q', 'C', 'z', 'z', 'C', 'u', 'q', 'C', 'n', 'q', 'C', 'z', 'q']
+Character l:
+Accuracy: 0.0
+['C', 'q', 'F', 'z', 'C', 'i', 'C', 'Q', 'i', 'C', 'C', 'C', 'C', 'q', 'C', 'z', 'z', 'n', 's', 'o']
+Character K:
+Accuracy: 0.0
+['u', 'z', 'z', 'z', 'O', 'q', 'i', 'z', 'q', 'q', 'B', 'B', 'Q', 'z', 'o', 'C', 'u', 'Q', 'u', 'o']
+Character u:
+Accuracy: 0.0
+['z', 'q', 'C', 'Q', 'C', 'q', 'z', 'C', 'Q', 'q', 'C', 'z', 'q', 'q', 'C', 'z', 'B', 'o', 'z', 'q']
+Character J:
+Accuracy: 0.0
+['n', 'u', 'Q', 'n', 'C', 'u', 'C', 'n', 'u', 'n', 'e', 'C', 'u', 'q', 'Q', 'u', 'q', 'e', 'C', 'i']
+Character C:
+Accuracy: 5.0
+['q', 'n', 'n', 'q', 'C', 'q', 'q', 'i', 'q', 'q', 'q', 'n', 'z', 'O', 'Q', 'q', 'q', 'q', 'q', 'q']
+Character z:
+Accuracy: 0.0
+['u', 'u', 'u', 'u', 'u', 'u', 'u', 'u', 'C', 'i', 'u', 'u', 'o', 'C', 'i', 'C', 'u', 'C', 'u', 'u']
+Character V:
+Accuracy: 0.0
+['B', 'u', 'u', 'u', 'u', 'u', 'u', 'u', 'u', 'B', 'i', 'u', 'C', 'u', 'u', 'u', 'u', 'u', 'B', 'u']
+Character A:
+Accuracy: 0.0
+['z', 'B', 'Q', 'q', 'C', 'Q', 'Q', 'C', 'C', 'Q', 'q', 'Q', 'n', 'C', 'B', 'Q', 'Q', 'Q', 'Q', 'B']
+Character H:
+Accuracy: 0.0
+['o', 'C', 'C', 'q', 'q', 'n', 'C', 'C', 'o', 'z', 'Q', 'o', 'q', 'q', 'z', 's', 'u', 'q', 'n', 'C']
+Character B:
+Accuracy: 0.0
+['u', 'C', 'C', 'C', 'u', 's', 'C', 'C', 'u', 'q', 'n', 'z', 'C', 'C', 'z', 's', 'C', 'q', 'u', 'z']
+Character o:
+Accuracy: 0.0
+['z', 'q', 'q', 'z', 'q', 'q', 'q', 'q', 'q', 'z', 'u', 'q', 'q', 'q', 'z', 'q', 'q', 'q', 'q', 'z']
+Character Q:
+Accuracy: 20.0
+['z', 'Q', 'E', 'z', 'q', 'B', 'q', 'Q', 'i', 'C', 'Q', 'i', 'z', 'n', 'n', 's', 'Q', 'i', 'G', 'q']
+Character c:
+Accuracy: 0.0
+['q', 'n', 'q', 'q', 'q', 'q', 'q', 'q', 'q', 'i', 'C', 'q', 'C', 'q', 'q', 'z', 'q', 'q', 'q', 'q']
+Character b:
+Accuracy: 0.0
+['q', 'q', 'u', 'z', 'C', 'C', 'C', 'n', 'o', 'Q', 'u', 'Q', 'o', 'Q', 'u', 'C', 'C', 'C', 'q', 'C']
+Character a:
+Accuracy: 5.0
+['q', 'n', 'q', 'z', 'q', 'C', 'q', 'q', 'i', 'C', 'q', 'a', 'O', 'q', 'q', 'u', 'S', 'q', 'q', 'q']
+Character Y:
+Accuracy: 0.0
+['u', 'u', 'u', 'u', 'u', 'u', 'C', 'u', 'u', 'u', 'u', 'C', 'u', 'u', 'i', 'u', 'u', 'u', 'u', 'u']
+Character F:
+Accuracy: 0.0
+['C', 'C', 'o', 'Q', 'u', 'Q', 'q', 'z', 'z', 'z', 'C', 'B', 'u', 'z', 'Q', 'u', 'o', 'q', 'C', 'o']
+Character e:
+Accuracy: 5.0
+['C', 'q', 'i', 'q', 'q', 'z', 'o', 'z', 'C', 'z', 'B', 'C', 'i', 'q', 'n', 'Q', 'C', 'e', 'q', 'q']
+Character x:
+Accuracy: 0.0
+['B', 'C', 'u', 'C', 'u', 'C', 'u', 'C', 'C', 'i', 'n', 'L', 'u', 'u', 'Q', 'Q', 'u', 'Q', 'C', 'Q']
+Character v:
+Accuracy: 0.0
+['q', 'C', 'q', 'u', 'z', 'n', 'z', 'u', 'q', 'u', 'u', 'z', 'u', 'n', 'z', 'q', 'u', 'u', 'q', 'C']
+Character t:
+Accuracy: 0.0
+['o', 'o', 'q', 'o', 'o', 'o', 'o', 'o', 'Q', 'C', 'o', 'o', 'q', 'o', 'o', 'o', 'o', 'u', 'o', 'o']
+Character R:
+Accuracy: 0.0
+['z', 'z', 'C', 'B', 'Q', 'B', 'z', 'z', 'u', 'C', 'c', 'z', 'u', 'C', 'z', 'z', 'z', 'C', 'Q', 'B']
+Character n:
+Accuracy: 5.0
+['C', 'C', 'u', 'q', 'o', 'Q', 'o', 'u', 'u', 'C', 'n', 's', 'u', 'C', 'B', 'Q', 'Q', 'C', 'z', 'C']
+Character g:
+Accuracy: 0.0
+['C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'n', 'C', 'C', 'C', 'C', 'c', 'C', 'C', 'u', 'u', 'C', 'B']
+Character L:
+Accuracy: 0.0
+['C', 'Q', 'q', 'o', 'C', 'C', 'z', 'i', 'C', 'C', 'u', 'z', 'q', 'q', 'Q', 'q', 'n', 'z', 'C', 'q']
+Character m:
+Accuracy: 0.0
+['q', 'u', 'o', 'z', 'q', 's', 'z', 'q', 'B', 'z', 'B', 'o', 'q', 'z', 'B', 'q', 'q', 'u', 'B', 'z']
+Character w:
+Accuracy: 0.0
+['q', 'z', 'C', 'q', 'z', 'u', 'i', 'B', 'z', 'B', 'q', 'q', 'C', 'i', 'q', 'C', 'q', 'B', 'u', 'u']
+Character j:
+Accuracy: 0.0
+['C', 'B', 'Q', 'C', 'C', 'o', 'Q', 'Q', 'Q', 'B', 'C', 'C', 'Q', 'C', 'q', 'o', 'n', 'C', 'C', 'i']
+Character h:
+Accuracy: 0.0
+['o', 'u', 'C', 'B', 'Q', 'q', 'z', 'q', 'c', 'i', 'C', 'z', 'z', 'o', 'z', 'Q', 'i', 'B', 'C', 'C']
+Character U:
+Accuracy: 0.0
+['q', 'q', 'u', 'q', 'z', 'z', 'i', 'q', 'z', 'i', 'z', 'B', 'z', 'q', 'z', 'q', 'z', 'u', 'c', 'z']
+Character f:
+Accuracy: 0.0
+['s', 'n', 'C', 'n', 'Q', 'C', 'n', 'o', 'o', 'Q', 's', 's', 'C', 'n', 'i', 'B', 'o', 'o', 'n', 'n']
+Character G:
+Accuracy: 15.0
+['n', 'q', 'Q', 'n', 'C', 'q', 'q', 'q', 'G', 'q', 'q', 'C', 'G', 'q', 'q', 'q', 'i', 'q', 'G', 'z']
+Character p:
+Accuracy: 0.0
+['o', 'u', 'z', 'C', 'o', 'q', 'u', 's', 's', 'u', 'C', 'u', 'u', 'Q', 'Q', 'C', 'C', 'q', 'z', 's']
+Character P:
+Accuracy: 0.0
+['s', 'u', 'Q', 'C', 'Q', 'C', 'u', 's', 'Q', 'q', 'u', 'q', 'q', 'u', 'i', 's', 'C', 'u', 'u', 'C']
+Character k:
+Accuracy: 0.0
+['u', 'u', 'z', 'q', 'z', 'C', 'z', 'u', 'z', 'z', 'u', 's', 'n', 'Q', 'B', 'o', 'z', 'C', 'C', 'Q']
+Character y:
+Accuracy: 0.0
+['C', 'o', 'u', 'S', 's', 'C', 'C', 'C', 'o', 'u', 'u', 'u', 'u', 'o', 'B', 'C', 'Q', 'C', 'u', 'C']
+Character S:
+Accuracy: 5.0
+['C', 'S', 'C', 'q', 'C', 'C', 'n', 'c', 'i', 'C', 'Q', 'C', 'C', 'Q', 'C', 'C', 'c', 'Q', 'C', 'n']
+Character q:
+Accuracy: 0.0
+['u', 'o', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'B', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'C', 'B']
+Character O:
+Accuracy: 15.0
+['q', 'q', 'i', 'i', 'q', 'q', 'O', 'q', 'n', 'q', 'q', 'q', 'q', 'n', 'O', 'O', 'q', 'z', 'q', 'q']
+Character M:
+Accuracy: 0.0
+['z', 'Q', 'C', 'Q', 'u', 'q', 'Q', 'Q', 'Q', 'z', 'C', 's', 'z', 'C', 'C', 'q', 'z', 'q', 'z', 'z']
+Character Z:
+Accuracy: 0.0
+['u', 'u', 'C', 'C', 'C', 'Q', 'u', 'i', 'u', 'u', 'C', 'o', 'C', 'u', 'u', 'u', 'u', 'C', 'o', 'S']
+Character I:
+Accuracy: 0.0
+['C', 'n', 'C', 'B', 'u', 'Q', 'C', 'u', 'u', 'u', 's', 'B', 'o', 'u', 'B', 'B', 'u', 'u', 'u', 'B']
+Character T:
+Accuracy: 0.0
+['u', 'u', 'u', 'u', 'u', 'C', 'u', 'u', 'u', 'u', 'u', 'o', 'u', 'u', 'u', 'u', 'u', 'u', 'u', 'u']
+Character N:
+Accuracy: 0.0
+['Q', 'q', 'Q', 'z', 'Q', 'z', 'Q', 'C', 'C', 'C', 'q', 'q', 'C', 'C', 'C', 'z', 'q', 'Q', 'z', 'q']
+Character D:
+Accuracy: 0.0
+['C', 'B', 'C', 's', 'q', 'C', 'u', 'C', 'n', 'u', 'u', 'u', 'u', 'C', 'C', 'Q', 'Q', 'z', 'z', 'u']
+Character X:
+Accuracy: 0.0
+['u', 'n', 'C', 'C', 'C', 'C', 'u', 'Q', 'C', 'u', 'u', 'C', 'C', 'u', 'B', 'C', 'u', 'i', 'O', 'u']
+Character d:
+Accuracy: 0.0
+['q', 'q', 'Q', 'Q', 'Q', 'Q', 'Q', 'n', 'q', 'C', 'n', 'Q', 'B', 'Q', 'Q', 'q', 'Q', 'Q', 'q', 'Q']
+Character r:
+Accuracy: 0.0
+['u', 'Q', 'Q', 'Q', 'C', 'n', 's', 'B', 'u', 'q', 'C', 'u', 'z', 'C', 'q', 'Q', 'u', 'o', 'Q', 'C']

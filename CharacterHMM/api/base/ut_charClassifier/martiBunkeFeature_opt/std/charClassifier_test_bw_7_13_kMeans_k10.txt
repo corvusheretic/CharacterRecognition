@@ -1,0 +1,382 @@
+
+<<<---
+Character A:
+Accuracy: 0.0
+['B', 'T', 'B', 'T', 'E', 'T', 'T', 'T', 'B', 'B', 'T', 'B', 'T', 'B', 'B', 'Z', 'B', 'e', 'B', 'T']
+Character B:
+Accuracy: 0.0
+['c', 'c', 'D', 'G', 'G', 'G', 'c', 'c', 'G', 'T', 'a', 'G', 'O', 'O', 'O', 'e', 'c', 'c', 'c', 'c']
+Character C:
+Accuracy: 20.0
+['O', 'a', 'c', 'c', 'a', 'a', 'a', 'S', 'Q', 'e', 'K', 'T', 'e', 'C', 'Q', 'T', 'C', 'T', 'C', 'C']
+Character D:
+Accuracy: 15.0
+['O', 'c', 'Q', 'F', 'c', 'c', 'E', 'c', 'G', 'G', 'D', 'D', 'c', 'c', 'G', 'T', 'D', 'c', 'c', 'O']
+Character E:
+Accuracy: 20.0
+['D', 'S', 'C', 'G', 'E', 'E', 'T', 'E', 'c', 'e', 'O', 'T', 'O', 'c', 'G', 'T', 'E', 'G', 'O', 'O']
+Character F:
+Accuracy: 15.0
+['c', 'c', 'c', 'F', 'c', 'c', 'c', 'c', 'p', 'T', 'c', 'p', 'G', 'p', 'T', 'F', 'F', 'c', 'c', 'p']
+Character G:
+Accuracy: 0.0
+['T', 'c', 'c', 'Q', 'Q', 'B', 'T', 'E', 'Q', 'c', 'O', 'C', 'C', 'E', 'C', 'O', 'C', 'E', 'T', 'c']
+Character H:
+Accuracy: 0.0
+['c', 'c', 'T', 'n', 'G', 'G', 'n', 'n', 'M', 'c', 'B', 'n', 'c', 'M', 'M', 'T', 'n', 'c', 'U', 'T']
+Character I:
+Accuracy: 0.0
+['B', 'c', 'c', 'B', 'T', 'c', 'T', 'c', 'w', 'G', 'T', 'T', 'c', 'G', 'T', 'G', 'c', 'B', 'S', 'z']
+Character J:
+Accuracy: 0.0
+['T', 'T', 'c', 'T', 'c', 'T', 'O', 'c', 'T', 'T', 'T', 'T', 'c', 'Y', 'c', 'C', 'T', 'c', 'T', 'B']
+Character K:
+Accuracy: 10.0
+['T', 'S', 'c', 'K', 'T', 'O', 'c', 'T', 'G', 'c', 'T', 'n', 'c', 'K', 'B', 'T', 'T', 'T', 'U', 'T']
+Character L:
+Accuracy: 50.0
+['G', 'c', 'c', 'L', 'L', 'L', 'c', 'T', 'L', 'T', 'c', 'L', 'L', 'L', 'L', 'c', 'T', 'L', 'T', 'L']
+Character M:
+Accuracy: 35.0
+['M', 'c', 'c', 'n', 'G', 'G', 'T', 'G', 'M', 'M', 'G', 'M', 'M', 'n', 'T', 'T', 'M', 'G', 'T', 'M']
+Character N:
+Accuracy: 25.0
+['N', 'A', 'G', 'T', 'N', 'G', 'T', 'T', 'n', 'N', 'n', 'G', 'c', 'T', 'T', 'N', 'T', 'T', 'N', 'T']
+Character O:
+Accuracy: 80.0
+['O', 'c', 'O', 'O', 'O', 'S', 'q', 'O', 'O', 'O', 'S', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Character P:
+Accuracy: 0.0
+['c', 'c', 'F', 'p', 'G', 'G', 'O', 'c', 'G', 'F', 'c', 'p', 'c', 'c', 'G', 'c', 'c', 'c', 'c', 'c']
+Character Q:
+Accuracy: 35.0
+['O', 'c', 'S', 'Q', 'c', 'Z', 'c', 'O', 'A', 'O', 'Q', 'C', 'c', 'Q', 'Q', 'c', 'c', 'Q', 'Q', 'Q']
+Character R:
+Accuracy: 10.0
+['c', 'O', 'a', 'G', 'G', 'R', 'A', 'c', 'G', 'T', 'c', 'B', 'e', 'a', 'R', 'Z', 'G', 'c', 'c', 'c']
+Character S:
+Accuracy: 0.0
+['Q', 'O', 'c', 'c', 'Q', 'c', 'O', 'T', 'T', 'c', 'c', 'e', 'T', 'T', 'T', 'C', 'T', 'e', 'O', 'O']
+Character T:
+Accuracy: 0.0
+['c', 'c', 'c', 'c', 'c', 'c', 'O', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'O', 'c', 'c', 'c', 'B', 'c']
+Character U:
+Accuracy: 20.0
+['B', 'c', 'c', 'B', 'c', 'v', 'T', 'c', 'c', 'T', 'c', 'T', 'c', 'U', 'U', 'c', 'U', 'U', 'T', 'T']
+Character V:
+Accuracy: 0.0
+['B', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'B', 'c', 'B', 'c', 'c', 'v', 'O', 'B', 'T', 'c']
+Character W:
+Accuracy: 0.0
+['c', 'c', 'c', 'c', 'c', 'c', 'c', 'O', 'c', 'c', 'c', 'T', 'B', 'U', 'c', 'T', 'U', 'c', 'T', 'S']
+Character X:
+Accuracy: 0.0
+['B', 'c', 'T', 'B', 'c', 'c', 'O', 'T', 'c', 'T', 'c', 'T', 'c', 'T', 'T', 'c', 'c', 'S', 'T', 'T']
+Character Y:
+Accuracy: 0.0
+['T', 'c', 'c', 'c', 'c', 'c', 'O', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'O', 'c', 'c', 'c', 'c']
+Character Z:
+Accuracy: 0.0
+['T', 'T', 'T', 'c', 'c', 'c', 'T', 'S', 'c', 'J', 'c', 'c', 'c', 'c', 'Q', 'c', 'c', 'c', 'c', 'T']
+Character a:
+Accuracy: 45.0
+['a', 'a', 'T', 'c', 'T', 'a', 'a', 'a', 'a', 'c', 'a', 'T', 'a', 'a', 'Q', 'c', 'c', 'T', 'Q', 'B']
+Character b:
+Accuracy: 0.0
+['L', 'n', 'c', 'T', 'O', 'L', 'O', 'G', 'a', 'T', 'O', 'G', 'L', 'T', 'L', 'L', 'L', 'T', 'T', 'T']
+Character c:
+Accuracy: 10.0
+['O', 'Q', 'C', 'S', 'c', 'C', 'Q', 'O', 'a', 'e', 'Q', 'Q', 'B', 'C', 'c', 'S', 'S', 'a', 'Q', 'S']
+Character d:
+Accuracy: 0.0
+['T', 'T', 'T', 'T', 'A', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'B', 'B', 'T', 'T']
+Character e:
+Accuracy: 5.0
+['e', 'Q', 'a', 'Q', 'c', 'a', 'O', 'O', 'a', 'T', 'o', 'O', 'a', 'a', 'C', 'E', 'O', 'c', 'O', 'O']
+Character f:
+Accuracy: 0.0
+['T', 'O', 'A', 'G', 'T', 'T', 'O', 'T', 'B', 'T', 'T', 'T', 'S', 'T', 'T', 'c', 'B', 'T', 'Y', 'T']
+Character g:
+Accuracy: 0.0
+['c', 'c', 'S', 'X', 'c', 'c', 'T', 'c', 'c', 'c', 'c', 'O', 'T', 'T', 'B', 'c', 'c', 'c', 'E', 'c']
+Character h:
+Accuracy: 0.0
+['O', 'B', 'O', 'n', 'O', 'B', 'G', 'B', 'T', 'T', 'c', 'n', 'T', 'T', 'T', 'c', 'c', 'G', 'A', 'n']
+Character i:
+Accuracy: 0.0
+['T', 'T', 'L', 'u', 'T', 'L', 'c', 'B', 'B', 'T', 'G', 'B', 'B', 'B', 'G', 'T', 'T', 'G', 'G', 'U']
+Character j:
+Accuracy: 0.0
+['B', 'O', 'T', 'B', 'A', 'B', 'T', 'B', 'T', 'T', 'B', 'O', 'T', 'O', 'T', 'T', 'c', 'B', 'B', 'T']
+Character k:
+Accuracy: 0.0
+['G', 'T', 'c', 'c', 'B', 'T', 'T', 'T', 'L', 'T', 'T', 'T', 'a', 'R', 'B', 'T', 'T', 'G', 'T', 'b']
+Character l:
+Accuracy: 0.0
+['T', 'G', 'T', 'T', 'S', 'T', 'O', 'G', 'G', 'O', 'T', 'T', 'c', 'O', 'G', 'T', 'O', 'T', 'c', 'E']
+Character m:
+Accuracy: 0.0
+['B', 'r', 'B', 'G', 'c', 'c', 'T', 'c', 'T', 'B', 'r', 'G', 'c', 'B', 'r', 'B', 'c', 'B', 'T', 'n']
+Character n:
+Accuracy: 0.0
+['B', 'M', 'c', 'M', 'c', 'c', 'c', 'c', 'T', 'B', 'T', 'T', 'G', 'c', 'M', 'T', 'T', 'B', 'T', 'G']
+Character o:
+Accuracy: 0.0
+['E', 'O', 'O', 'O', 'E', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Character p:
+Accuracy: 15.0
+['G', 'p', 'c', 'p', 'c', 'G', 'c', 'O', 'c', 'c', 'G', 'F', 'c', 'c', 'G', 'Y', 'p', 'c', 'c', 'c']
+Character q:
+Accuracy: 0.0
+['c', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'Y', 'c', 'c', 'c', 'T', 'c', 'c', 'c', 'c', 'c', 'c']
+Character r:
+Accuracy: 0.0
+['p', 'c', 'T', 'c', 'T', 'c', 'G', 'T', 'T', 'T', 'B', 'c', 'B', 'T', 'G', 'G', 'O', 'c', 'F', 'G']
+Character s:
+Accuracy: 0.0
+['c', 'O', 'c', 'T', 'T', 'e', 'T', 'T', 'Q', 'T', 'c', 'c', 'T', 'T', 'T', 'T', 'T', 'B', 'O', 'Q']
+Character t:
+Accuracy: 0.0
+['c', 'O', 'T', 'c', 'T', 'c', 'S', 'B', 'c', 'T', 'a', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'B']
+Character u:
+Accuracy: 5.0
+['u', 'T', 'T', 'U', 'T', 'c', 'T', 'L', 'T', 'T', 'U', 'U', 'T', 'U', 'U', 'c', 'T', 'c', 'U', 'U']
+Character v:
+Accuracy: 20.0
+['c', 'c', 'O', 'c', 'T', 'c', 'c', 'v', 'c', 'B', 'c', 'v', 'c', 'v', 'c', 'c', 'U', 'T', 'c', 'v']
+Character w:
+Accuracy: 0.0
+['T', 'B', 'c', 'U', 'c', 'c', 'c', 'T', 'c', 'T', 'T', 'T', 'c', 'U', 'c', 'T', 'T', 'c', 'L', 'U']
+Character x:
+Accuracy: 0.0
+['c', 'c', 'c', 'T', 'n', 'c', 'T', 'c', 'c', 'T', 'c', 'a', 'c', 'T', 'T', 'T', 'c', 'c', 'T', 'T']
+Character y:
+Accuracy: 0.0
+['B', 'O', 'G', 'c', 'c', 'B', 'c', 'c', 'c', 'A', 'T', 'T', 'c', 'T', 'c', 'c', 'T', 'c', 'c', 'c']
+Character z:
+Accuracy: 0.0
+['T', 'c', 'T', 'Q', 'Q', 'c', 'T', 'T', 'c', 'E', 'e', 'J', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'E']
+         208540876 function calls (208513456 primitive calls) in 711.027 seconds
+
+   Random listing order was used
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       52    0.000    0.000    0.000    0.000 {method 'reverse' of 'list' objects}
+      364    0.001    0.000    0.002    0.000 ../../api/base/DNASeqHMM.py:87(initTransitionMatrixRow)
+    19770    0.002    0.000    0.002    0.000 {method 'random' of '_random.Random' objects}
+        1    0.000    0.000    0.000    0.000 {open}
+      738    0.008    0.000    0.787    0.001 /usr/lib/python2.7/dist-packages/numpy/core/arrayprint.py:343(array2string)
+       22    0.000    0.000    0.000    0.000 /usr/lib/python2.7/dist-packages/numpy/lib/type_check.py:237(iscomplexobj)
+        1    0.000    0.000    0.000    0.000 {method 'split' of 'str' objects}
+        4    0.000    0.000    0.000    0.000 /usr/lib/python2.7/linecache.py:13(getline)
+    28783    0.016    0.000    0.021    0.000 /usr/lib/python2.7/dist-packages/numpy/core/numeric.py:2701(__init__)
+        1    0.000    0.000    0.000    0.000 {method 'partition' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/posixpath.py:379(realpath)
+    28783    0.020    0.000    0.091    0.000 /usr/lib/python2.7/dist-packages/numpy/core/numeric.py:2710(__exit__)
+    43680    0.062    0.000    0.062    0.000 ../../api/imgProc/genericPreProc.py:73(createSegment)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/dist-packages/numpy/core/getlimits.py:148(<lambda>)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/posixpath.py:336(normpath)
+        1    0.000    0.000    0.015    0.015 /usr/lib/python2.7/dist-packages/numpy/core/getlimits.py:126(_init)
+  1282512    0.674    0.000    1.367    0.000 /usr/lib/python2.7/dist-packages/numpy/core/numeric.py:462(asanyarray)
+        2    0.001    0.001    0.002    0.001 /usr/lib/python2.7/dist-packages/numpy/core/_methods.py:73(_var)
+  3165232   15.159    0.000   15.159    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+      100    0.013    0.000    0.013    0.000 {numpy.core.multiarray.where}
+      364    0.000    0.000    0.052    0.000 ../../api/base/configureHMM.py:11(fixedSumRandomList)
+        2    0.000    0.000    0.000    0.000 {method 'rfind' of 'str' objects}
+      104    0.000    0.000    0.000    0.000 /usr/lib/python2.7/threading.py:146(acquire)
+  1223063    1.314    0.000    1.314    0.000 {method 'astype' of 'numpy.ndarray' objects}
+      624    0.001    0.000    0.002    0.000 ../../api/base/configureHMM.py:43(zerosList)
+   611624    1.112    0.000    3.956    0.000 /usr/lib/python2.7/dist-packages/numpy/core/fromnumeric.py:1621(sum)
+     2214    0.006    0.000    0.006    0.000 {method 'compress' of 'numpy.ndarray' objects}
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/pstats.py:84(init)
+       52    0.068    0.001  120.773    2.323 ../../api/features/martibunke.py:134(extractMartiBunkeTuplesForDir)
+   865621    0.285    0.000    0.285    0.000 {math.log10}
+   661414    0.492    0.000    3.905    0.000 /usr/lib/python2.7/dist-packages/numpy/core/_methods.py:15(_amax)
+        1    0.000    0.000    0.015    0.015 /usr/lib/python2.7/dist-packages/numpy/core/machar.py:97(__init__)
+  1529820    3.089    0.000    9.680    0.000 ../../api/base/hmm.py:82(appendScalingFactor_t)
+      738    0.001    0.000    0.001    0.000 {method 'extend' of 'list' objects}
+     6240    0.188    0.000    0.915    0.000 ../../api/imgProc/genericPreProc.py:29(scaleToFill)
+      738    0.024    0.000    0.777    0.001 /usr/lib/python2.7/dist-packages/numpy/core/arrayprint.py:233(_array2string)
+  1223040    2.897    0.000   23.156    0.000 /usr/lib/python2.7/dist-packages/numpy/lib/function_base.py:417(average)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/logging/__init__.py:1112(__init__)
+  1266822    2.474    0.000    3.094    0.000 /usr/lib/python2.7/dist-packages/numpy/core/_methods.py:39(_count_reduce_items)
+        9    0.000    0.000    0.000    0.000 {setattr}
+   655212    0.800    0.000    0.800    0.000 {method 'tolist' of 'numpy.ndarray' objects}
+  1840800    1.073    0.000    3.305    0.000 /usr/lib/python2.7/dist-packages/numpy/core/fromnumeric.py:1370(nonzero)
+   611520    0.542    0.000   13.119    0.000 ../../api/features/martibunke.py:42(getF1)
+       52    0.000    0.000    0.001    0.000 /usr/lib/python2.7/logging/__init__.py:1010(getLogger)
+       53    0.000    0.000    0.000    0.000 {function seed at 0x7f02dd5860c8}
+       53    0.009    0.000    0.009    0.000 {posix.listdir}
+       53    0.000    0.000    0.001    0.000 /usr/lib/python2.7/random.py:100(seed)
+        2    0.000    0.000    0.000    0.000 /usr/lib/python2.7/posixpath.py:59(isabs)
+        6    0.000    0.000    0.000    0.000 /usr/lib/python2.7/dist-packages/numpy/core/getlimits.py:149(<lambda>)
+  2452348    4.241    0.000    8.545    0.000 /usr/lib/python2.7/dist-packages/numpy/core/fromnumeric.py:2495(size)
+   115132    0.015    0.000    0.015    0.000 {numpy.core.umath.geterrobj}
+        2    0.000    0.000    0.002    0.001 /usr/lib/python2.7/dist-packages/numpy/core/fromnumeric.py:2718(std)
+    12535    0.024    0.000    0.036    0.000 /usr/lib/python2.7/posixpath.py:68(join)
+       11    0.045    0.004    0.045    0.004 {scipy.cluster._vq.vq}
+     6240    1.922    0.000    1.922    0.000 {imread}
+        9    0.000    0.000    0.000    0.000 {method 'strip' of 'str' objects}
+        2    0.000    0.000    0.000    0.000 /usr/lib/python2.7/dist-packages/numpy/core/getlimits.py:147(<lambda>)
+    96180    0.373    0.000  118.375    0.001 ../../api/base/hmm.py:124(obsProbability)
+       11    0.001    0.000    0.050    0.005 /usr/lib/python2.7/dist-packages/scipy/cluster/vq.py:137(vq)
+       52    0.000    0.000    0.001    0.000 /usr/lib/python2.7/logging/__init__.py:1552(getLogger)
+     6240    0.004    0.000    0.020    0.000 /usr/lib/python2.7/genericpath.py:38(isdir)
+   611624    0.542    0.000    2.598    0.000 /usr/lib/python2.7/dist-packages/numpy/core/_methods.py:23(_sum)
+      208    0.000    0.000    0.000    0.000 {thread.get_ident}
+        1    0.000    0.000    0.000    0.000 {method 'copy' of 'numpy.ndarray' objects}
+        1    0.000    0.000  520.318  520.318 ../../api/base/wordClassifier.py:24(__init__)
+        1    0.003    0.003  711.027  711.027 charClassifier.py:297(test_martiBunkeFeatureWithClassifier)
+18928/364    0.026    0.000    0.052    0.000 ../../api/base/configureHMM.py:12(fixedSumRandomList_iter)
+    96918  182.954    0.002  211.133    0.002 ../../api/base/hmm.py:74(calculateForward)
+     1154    0.000    0.000    0.000    0.000 {round}
+    26568    0.200    0.000    0.388    0.000 /usr/lib/python2.7/dist-packages/numpy/core/arrayprint.py:598(__call__)
+     3208    0.003    0.000    0.015    0.000 /usr/lib/python2.7/dist-packages/numpy/core/_methods.py:31(_any)
+      738    0.003    0.000    0.003    0.000 /usr/lib/python2.7/dist-packages/numpy/core/arrayprint.py:716(__init__)
+        5    0.000    0.000    0.000    0.000 /usr/lib/python2.7/dist-packages/numpy/core/getlimits.py:150(<lambda>)
+        1    0.000    0.000  520.318  520.318 charClassifier.py:32(__init__)
+ 39767119   11.048    0.000   11.048    0.000 /usr/lib/python2.7/logging/__init__.py:1331(getEffectiveLevel)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/logging/__init__.py:1056(_fixupParents)
+       52    0.000    0.000    0.001    0.000 /usr/lib/python2.7/logging/__init__.py:1492(basicConfig)
+   611520    3.267    0.000    3.524    0.000 ../../api/features/martibunke.py:64(getF6F7)
+      738    0.004    0.000    0.085    0.000 /usr/lib/python2.7/dist-packages/numpy/core/arrayprint.py:700(__init__)
+    43680    0.005    0.000    0.005    0.000 ../../api/features/martibunke.py:228(mapIds)
+    24846    0.020    0.000    0.020    0.000 {max}
+ 39767119   15.966    0.000   27.014    0.000 /usr/lib/python2.7/logging/__init__.py:1345(isEnabledFor)
+     2214    0.001    0.000    0.001    0.000 /usr/lib/python2.7/dist-packages/numpy/core/arrayprint.py:661(__init__)
+       53    0.002    0.000    0.002    0.000 {sorted}
+      104    0.000    0.000    0.000    0.000 /usr/lib/python2.7/logging/__init__.py:219(_releaseLock)
+        1    0.000    0.000    0.000    0.000 {method 'readlines' of 'file' objects}
+     1094    0.000    0.000    0.000    0.000 ../../debug/debugger.py:8(db_StallExec)
+      738    0.002    0.000    0.002    0.000 {_functools.reduce}
+    12480    0.029    0.000    0.060    0.000 /usr/lib/python2.7/dist-packages/numpy/core/shape_base.py:60(atleast_2d)
+     1040    0.000    0.000    0.000    0.000 {method 'pop' of 'list' objects}
+      364    0.001    0.000    0.090    0.000 ../../api/base/DNASeqHMM.py:98(initEmissionProbablityMatrixRow)
+        1    0.001    0.001  122.942  122.942 ../../api/features/martibunke.py:187(extractTrainingAndTestingFeatures)
+       53    0.000    0.000    0.000    0.000 {method 'sort' of 'list' objects}
+    28783    0.017    0.000    0.103    0.000 /usr/lib/python2.7/dist-packages/numpy/core/numeric.py:2705(__enter__)
+        4    0.000    0.000    0.000    0.000 /usr/lib/python2.7/linecache.py:33(getlines)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/cProfile.py:90(create_stats)
+    57566    0.017    0.000    0.017    0.000 {numpy.core.umath.seterrobj}
+  1840800    2.232    0.000    2.232    0.000 {method 'nonzero' of 'numpy.ndarray' objects}
+      364    0.001    0.000    0.001    0.000 ../../api/base/configureHMM.py:49(fixedSumEqualElementsList)
+   865644    0.644    0.000    0.644    0.000 {method 'get' of 'dict' objects}
+    96546    0.301    0.000    2.986    0.000 {map}
+   611520    5.773    0.000   21.283    0.000 ../../api/features/martibunke.py:51(getF3)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/posixpath.py:127(dirname)
+      738    0.010    0.000    0.024    0.000 /usr/lib/python2.7/dist-packages/numpy/core/arrayprint.py:639(__init__)
+   611520    6.170    0.000   17.775    0.000 ../../api/features/martibunke.py:75(getF8)
+   865620    1.068    0.000    2.678    0.000 ../../api/base/hmm.py:127(log)
+   133080    0.651    0.000    1.122    0.000 ../../api/base/DNASeqHMM.py:135(observationFromWord)
+    98027    0.184    0.000    0.184    0.000 {numpy.core.multiarray.zeros}
+      364    0.000    0.000    0.000    0.000 {method 'insert' of 'list' objects}
+  6836148   28.177    0.000   28.177    0.000 {numpy.core.multiarray.array}
+  1223040    0.838    0.000   18.207    0.000 {method 'mean' of 'numpy.ndarray' objects}
+     3004    0.001    0.000    0.001    0.000 {min}
+        1    0.045    0.045    0.115    0.115 /usr/lib/python2.7/dist-packages/scipy/cluster/vq.py:714(_kmeans2)
+      208    0.000    0.000    0.000    0.000 /usr/lib/python2.7/threading.py:63(_note)
+       12    0.000    0.000    0.000    0.000 /usr/lib/python2.7/dist-packages/numpy/core/getlimits.py:13(_frz)
+      369  295.492    0.801  467.961    1.268 ../../api/base/hmm.py:163(baumWelch)
+      104    0.000    0.000    0.000    0.000 /usr/lib/python2.7/threading.py:186(release)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/dist-packages/numpy/core/numerictypes.py:610(obj2sctype)
+     6240    0.218    0.000    0.218    0.000 {resize}
+   617734    0.553    0.000    4.889    0.000 /usr/lib/python2.7/dist-packages/numpy/core/_methods.py:19(_amin)
+       52    0.001    0.000    0.007    0.000 ../../api/base/hmm.py:43(__init__)
+     6240    0.020    0.000    1.839    0.000 /usr/lib/python2.7/dist-packages/numpy/core/shape_base.py:179(vstack)
+    57566    0.050    0.000    0.056    0.000 /usr/lib/python2.7/dist-packages/numpy/core/numeric.py:2416(geterr)
+   611520    8.697    0.000   12.151    0.000 ../../api/features/martibunke.py:83(getF9)
+       52    0.002    0.000    0.103    0.002 ../../api/base/DNASeqHMM.py:29(__init__)
+     6241    0.013    0.000    0.013    0.000 {posix.stat}
+   611520    3.860    0.000   20.637    0.000 ../../api/features/martibunke.py:46(getF2)
+ 5166/738    0.064    0.000    0.505    0.001 /usr/lib/python2.7/dist-packages/numpy/core/arrayprint.py:465(_formatArray)
+        1    0.000    0.000    0.000    0.000 {built-in method __new__ of type object at 0x91f8e0}
+ 39767119   14.129    0.000   41.143    0.000 /usr/lib/python2.7/logging/__init__.py:1130(debug)
+  1223041    0.448    0.000    0.448    0.000 {hasattr}
+   617734    1.235    0.000    6.124    0.000 /usr/lib/python2.7/dist-packages/numpy/core/fromnumeric.py:2132(amin)
+      369   43.912    0.119   93.794    0.254 ../../api/base/hmm.py:103(calculateBackward)
+     4428    0.006    0.000    0.008    0.000 /usr/lib/python2.7/dist-packages/numpy/core/arrayprint.py:632(_digits)
+     1040    0.091    0.000   67.759    0.065 ../../api/base/wordClassifier.py:121(classify)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/logging/__init__.py:578(__init__)
+        4    0.000    0.000    0.000    0.000 /usr/lib/python2.7/warnings.py:36(formatwarning)
+   661414    1.150    0.000    5.055    0.000 /usr/lib/python2.7/dist-packages/numpy/core/fromnumeric.py:2048(amax)
+  4177309    0.900    0.000    0.900    0.000 {method 'append' of 'list' objects}
+      738    0.002    0.000    0.002    0.000 /usr/lib/python2.7/dist-packages/numpy/core/arrayprint.py:689(__init__)
+      104    0.000    0.000    0.001    0.000 /usr/lib/python2.7/logging/__init__.py:210(_acquireLock)
+        2    0.001    0.001    0.004    0.002 /usr/lib/python2.7/dist-packages/scipy/cluster/vq.py:94(whiten)
+        2    0.000    0.000    0.002    0.001 /usr/lib/python2.7/dist-packages/numpy/core/_methods.py:119(_std)
+    43680    6.307    0.000  116.859    0.003 ../../api/features/martibunke.py:40(getMBFeatures)
+    30996    0.032    0.000    0.045    0.000 /usr/lib/python2.7/dist-packages/numpy/core/arrayprint.py:457(_extendLine)
+     3208    0.003    0.000    0.018    0.000 {method 'any' of 'numpy.ndarray' objects}
+        2    0.004    0.002    0.005    0.002 ../../api/features/martibunke.py:264(extractMBFeatureString)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/linecache.py:68(updatecache)
+     6240    0.219    0.000  118.707    0.019 ../../api/features/martibunke.py:118(extractMartiBunkeTuple)
+      738    0.002    0.000    0.789    0.001 /usr/lib/python2.7/dist-packages/numpy/core/numeric.py:1581(array_str)
+        1    0.000    0.000    0.115    0.115 /usr/lib/python2.7/dist-packages/scipy/cluster/vq.py:612(kmeans2)
+     6240    0.134    0.000    0.134    0.000 {cvtColor}
+        2    0.000    0.000    0.131    0.066 ../../api/features/martibunke.py:224(getKMeansLabels)
+ 5166/738    0.039    0.000    0.053    0.000 /usr/lib/python2.7/dist-packages/numpy/core/arrayprint.py:204(_leading_trailing)
+        1    0.000    0.000  520.318  520.318 ../../api/base/wordClassifier.py:60(train)
+        9    0.000    0.000    0.000    0.000 {getattr}
+     1040    0.004    0.000   67.763    0.065 charClassifier.py:76(classifyCharacterString)
+      738    0.000    0.000    0.000    0.000 /usr/lib/python2.7/dist-packages/numpy/core/arrayprint.py:32(product)
+    57566    0.075    0.000    0.157    0.000 /usr/lib/python2.7/dist-packages/numpy/core/numeric.py:2320(seterr)
+      104    0.000    0.000    0.000    0.000 {method 'acquire' of 'thread.lock' objects}
+       11    0.000    0.000    0.000    0.000 /usr/lib/python2.7/dist-packages/numpy/lib/type_check.py:553(common_type)
+  1266820    7.013    0.000   18.464    0.000 /usr/lib/python2.7/dist-packages/numpy/core/_methods.py:49(_mean)
+        1    0.000    0.000    0.000    0.000 {posix.lstat}
+        2    0.193    0.097    2.032    1.016 ../../api/features/martibunke.py:212(createObsMatrix)
+      104    0.000    0.000    0.000    0.000 {method 'release' of 'thread.lock' objects}
+     6241    0.001    0.000    0.001    0.000 /usr/lib/python2.7/stat.py:24(S_IFMT)
+  1680865    6.426    0.000    6.426    0.000 {sum}
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/stat.py:55(S_ISLNK)
+        1    0.000    0.000    0.000    0.000 ../../api/features/martibunke.py:30(__init__)
+     2214    0.006    0.000    0.160    0.000 /usr/lib/python2.7/dist-packages/numpy/core/arrayprint.py:533(__init__)
+       52    0.003    0.000  513.684    9.879 ../../api/base/DNASeqHMM.py:156(trainUntilStop)
+    90775    0.013    0.000    0.013    0.000 {method 'rstrip' of 'str' objects}
+     6241    0.001    0.000    0.001    0.000 {method 'join' of 'str' objects}
+      104    0.005    0.000    0.042    0.000 /usr/lib/python2.7/os.py:209(walk)
+   578081    0.646    0.000    0.646    0.000 {len}
+       52    0.001    0.000  520.318   10.006 ../../api/base/wordClassifier.py:86(createHmmForWord)
+    11406    1.769    0.000    1.769    0.000 {numpy.core.multiarray.concatenate}
+     6240    0.047    0.000    0.121    0.000 ../../api/imgProc/genericPreProc.py:69(divideIntoSegments)
+   611520    4.333    0.000   19.208    0.000 ../../api/features/martibunke.py:56(getF4F5)
+      369    0.096    0.000  468.287    1.269 ../../api/base/DNASeqHMM.py:143(trainBaumWelch)
+      520    0.000    0.000    0.000    0.000 {abs}
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/posixpath.py:139(islink)
+    12535    0.005    0.000    0.005    0.000 {method 'endswith' of 'str' objects}
+ 32661123    9.746    0.000    9.746    0.000 {range}
+    18928    0.002    0.000    0.002    0.000 ../../api/base/DNASeqHMM.py:128(normalizeElement)
+  3057622    1.678    0.000    5.787    0.000 /usr/lib/python2.7/dist-packages/numpy/core/numeric.py:392(asarray)
+     3208    0.004    0.000    0.028    0.000 /usr/lib/python2.7/dist-packages/numpy/core/fromnumeric.py:1762(any)
+    49925    0.040    0.000    0.040    0.000 /usr/lib/python2.7/dist-packages/numpy/core/fromnumeric.py:1452(shape)
+  4368472    1.699    0.000    1.699    0.000 {isinstance}
+       52    0.001    0.000    0.004    0.000 ../../api/base/hmm.py:12(selectRandom)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/pstats.py:106(load_stats)
+        4    0.000    0.000    0.000    0.000 {method 'write' of 'file' objects}
+        1    0.000    0.000    0.000    0.000 {posix.getcwd}
+      738    0.000    0.000    0.000    0.000 /usr/lib/python2.7/dist-packages/numpy/core/arrayprint.py:744(__init__)
+    28783    0.005    0.000    0.005    0.000 {method 'pop' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/logging/__init__.py:182(_checkLevel)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/posixpath.py:387(_joinrealpath)
+     6240    0.002    0.000    0.003    0.000 /usr/lib/python2.7/stat.py:40(S_ISDIR)
+    54501    0.271    0.000  119.580    0.002 ../../api/base/DNASeqHMM.py:192(apply)
+        2    0.000    0.000    0.000    0.000 /usr/lib/python2.7/dist-packages/numpy/core/fromnumeric.py:2412(ndim)
+        1    0.000    0.000    0.000    0.000 charClassifier.py:114(tearDown)
+  1269823    0.568    0.000    0.568    0.000 {issubclass}
+    12480    0.414    0.000    0.414    0.000 {threshold}
+        4    0.000    0.000    0.001    0.000 /usr/lib/python2.7/warnings.py:24(_show_warning)
+     2214    0.080    0.000    0.155    0.000 /usr/lib/python2.7/dist-packages/numpy/core/arrayprint.py:547(fillFormat)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/posixpath.py:365(abspath)
+    43780    0.087    0.000    1.181    0.000 /usr/lib/python2.7/dist-packages/numpy/core/fromnumeric.py:2632(mean)
+        1    0.006    0.006    0.015    0.015 /usr/lib/python2.7/dist-packages/numpy/core/machar.py:113(_do_init)
+       52    0.000    0.000    0.007    0.000 ../../api/base/configureHMM.py:68(__init__)
+   865620    0.666    0.000    1.326    0.000 /usr/lib/python2.7/dist-packages/numpy/core/getlimits.py:93(__new__)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+    12540    0.008    0.000    0.008    0.000 {method 'startswith' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/pstats.py:62(__init__)
+  1253776    0.345    0.000    0.345    0.000 {method 'index' of 'list' objects}
+      364    0.021    0.000    0.081    0.000 ../../api/base/DNASeqHMM.py:106(countPosition)
+
+
+
+--->>>

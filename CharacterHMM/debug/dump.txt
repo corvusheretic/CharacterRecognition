@@ -1,0 +1,578 @@
+Character A:
+Accuracy: 0.0
+['B', 'T', 'B', 'T', 'E', 'T', 'T', 'T', 'B', 'B', 'T', 'B', 'T', 'B', 'B', 'Z', 'B', 'e', 'B', 'T']
+Character B:
+Accuracy: 0.0
+['c', 'c', 'D', 'G', 'G', 'G', 'c', 'c', 'G', 'T', 'a', 'G', 'O', 'O', 'O', 'e', 'c', 'c', 'c', 'c']
+Character C:
+Accuracy: 20.0
+['O', 'a', 'c', 'c', 'a', 'a', 'a', 'S', 'Q', 'e', 'K', 'T', 'e', 'C', 'Q', 'T', 'C', 'T', 'C', 'C']
+Character D:
+Accuracy: 15.0
+['O', 'c', 'Q', 'F', 'c', 'c', 'E', 'c', 'G', 'G', 'D', 'D', 'c', 'c', 'G', 'T', 'D', 'c', 'c', 'O']
+Character E:
+Accuracy: 20.0
+['D', 'S', 'C', 'G', 'E', 'E', 'T', 'E', 'c', 'e', 'O', 'T', 'O', 'c', 'G', 'T', 'E', 'G', 'O', 'O']
+Character F:
+Accuracy: 15.0
+['c', 'c', 'c', 'F', 'c', 'c', 'c', 'c', 'p', 'T', 'c', 'p', 'G', 'p', 'T', 'F', 'F', 'c', 'c', 'p']
+Character G:
+Accuracy: 0.0
+['T', 'c', 'c', 'Q', 'Q', 'B', 'T', 'E', 'Q', 'c', 'O', 'C', 'C', 'E', 'C', 'O', 'C', 'E', 'T', 'c']
+Character H:
+Accuracy: 0.0
+['c', 'c', 'T', 'n', 'G', 'G', 'n', 'n', 'M', 'c', 'B', 'n', 'c', 'M', 'M', 'T', 'n', 'c', 'U', 'T']
+Character I:
+Accuracy: 0.0
+['B', 'c', 'c', 'B', 'T', 'c', 'T', 'c', 'w', 'G', 'T', 'T', 'c', 'G', 'T', 'G', 'c', 'B', 'S', 'z']
+Character J:
+Accuracy: 0.0
+['T', 'T', 'c', 'T', 'c', 'T', 'O', 'c', 'T', 'T', 'T', 'T', 'c', 'Y', 'c', 'C', 'T', 'c', 'T', 'B']
+Character K:
+Accuracy: 10.0
+['T', 'S', 'c', 'K', 'T', 'O', 'c', 'T', 'G', 'c', 'T', 'n', 'c', 'K', 'B', 'T', 'T', 'T', 'U', 'T']
+Character L:
+Accuracy: 50.0
+['G', 'c', 'c', 'L', 'L', 'L', 'c', 'T', 'L', 'T', 'c', 'L', 'L', 'L', 'L', 'c', 'T', 'L', 'T', 'L']
+Character M:
+Accuracy: 35.0
+['M', 'c', 'c', 'n', 'G', 'G', 'T', 'G', 'M', 'M', 'G', 'M', 'M', 'n', 'T', 'T', 'M', 'G', 'T', 'M']
+Character N:
+Accuracy: 25.0
+['N', 'A', 'G', 'T', 'N', 'G', 'T', 'T', 'n', 'N', 'n', 'G', 'c', 'T', 'T', 'N', 'T', 'T', 'N', 'T']
+Character O:
+Accuracy: 80.0
+['O', 'c', 'O', 'O', 'O', 'S', 'q', 'O', 'O', 'O', 'S', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Character P:
+Accuracy: 0.0
+['c', 'c', 'F', 'p', 'G', 'G', 'O', 'c', 'G', 'F', 'c', 'p', 'c', 'c', 'G', 'c', 'c', 'c', 'c', 'c']
+Character Q:
+Accuracy: 35.0
+['O', 'c', 'S', 'Q', 'c', 'Z', 'c', 'O', 'A', 'O', 'Q', 'C', 'c', 'Q', 'Q', 'c', 'c', 'Q', 'Q', 'Q']
+Character R:
+Accuracy: 10.0
+['c', 'O', 'a', 'G', 'G', 'R', 'A', 'c', 'G', 'T', 'c', 'B', 'e', 'a', 'R', 'Z', 'G', 'c', 'c', 'c']
+Character S:
+Accuracy: 0.0
+['Q', 'O', 'c', 'c', 'Q', 'c', 'O', 'T', 'T', 'c', 'c', 'e', 'T', 'T', 'T', 'C', 'T', 'e', 'O', 'O']
+Character T:
+Accuracy: 0.0
+['c', 'c', 'c', 'c', 'c', 'c', 'O', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'O', 'c', 'c', 'c', 'B', 'c']
+Character U:
+Accuracy: 20.0
+['B', 'c', 'c', 'B', 'c', 'v', 'T', 'c', 'c', 'T', 'c', 'T', 'c', 'U', 'U', 'c', 'U', 'U', 'T', 'T']
+Character V:
+Accuracy: 0.0
+['B', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'B', 'c', 'B', 'c', 'c', 'v', 'O', 'B', 'T', 'c']
+Character W:
+Accuracy: 0.0
+['c', 'c', 'c', 'c', 'c', 'c', 'c', 'O', 'c', 'c', 'c', 'T', 'B', 'U', 'c', 'T', 'U', 'c', 'T', 'S']
+Character X:
+Accuracy: 0.0
+['B', 'c', 'T', 'B', 'c', 'c', 'O', 'T', 'c', 'T', 'c', 'T', 'c', 'T', 'T', 'c', 'c', 'S', 'T', 'T']
+Character Y:
+Accuracy: 0.0
+['T', 'c', 'c', 'c', 'c', 'c', 'O', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'O', 'c', 'c', 'c', 'c']
+Character Z:
+Accuracy: 0.0
+['T', 'T', 'T', 'c', 'c', 'c', 'T', 'S', 'c', 'J', 'c', 'c', 'c', 'c', 'Q', 'c', 'c', 'c', 'c', 'T']
+Character a:
+Accuracy: 45.0
+['a', 'a', 'T', 'c', 'T', 'a', 'a', 'a', 'a', 'c', 'a', 'T', 'a', 'a', 'Q', 'c', 'c', 'T', 'Q', 'B']
+Character b:
+Accuracy: 0.0
+['L', 'n', 'c', 'T', 'O', 'L', 'O', 'G', 'a', 'T', 'O', 'G', 'L', 'T', 'L', 'L', 'L', 'T', 'T', 'T']
+Character c:
+Accuracy: 10.0
+['O', 'Q', 'C', 'S', 'c', 'C', 'Q', 'O', 'a', 'e', 'Q', 'Q', 'B', 'C', 'c', 'S', 'S', 'a', 'Q', 'S']
+Character d:
+Accuracy: 0.0
+['T', 'T', 'T', 'T', 'A', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'B', 'B', 'T', 'T']
+Character e:
+Accuracy: 5.0
+['e', 'Q', 'a', 'Q', 'c', 'a', 'O', 'O', 'a', 'T', 'o', 'O', 'a', 'a', 'C', 'E', 'O', 'c', 'O', 'O']
+Character f:
+Accuracy: 0.0
+['T', 'O', 'A', 'G', 'T', 'T', 'O', 'T', 'B', 'T', 'T', 'T', 'S', 'T', 'T', 'c', 'B', 'T', 'Y', 'T']
+Character g:
+Accuracy: 0.0
+['c', 'c', 'S', 'X', 'c', 'c', 'T', 'c', 'c', 'c', 'c', 'O', 'T', 'T', 'B', 'c', 'c', 'c', 'E', 'c']
+Character h:
+Accuracy: 0.0
+['O', 'B', 'O', 'n', 'O', 'B', 'G', 'B', 'T', 'T', 'c', 'n', 'T', 'T', 'T', 'c', 'c', 'G', 'A', 'n']
+Character i:
+Accuracy: 0.0
+['T', 'T', 'L', 'u', 'T', 'L', 'c', 'B', 'B', 'T', 'G', 'B', 'B', 'B', 'G', 'T', 'T', 'G', 'G', 'U']
+Character j:
+Accuracy: 0.0
+['B', 'O', 'T', 'B', 'A', 'B', 'T', 'B', 'T', 'T', 'B', 'O', 'T', 'O', 'T', 'T', 'c', 'B', 'B', 'T']
+Character k:
+Accuracy: 0.0
+['G', 'T', 'c', 'c', 'B', 'T', 'T', 'T', 'L', 'T', 'T', 'T', 'a', 'R', 'B', 'T', 'T', 'G', 'T', 'b']
+Character l:
+Accuracy: 0.0
+['T', 'G', 'T', 'T', 'S', 'T', 'O', 'G', 'G', 'O', 'T', 'T', 'c', 'O', 'G', 'T', 'O', 'T', 'c', 'E']
+Character m:
+Accuracy: 0.0
+['B', 'r', 'B', 'G', 'c', 'c', 'T', 'c', 'T', 'B', 'r', 'G', 'c', 'B', 'r', 'B', 'c', 'B', 'T', 'n']
+Character n:
+Accuracy: 0.0
+['B', 'M', 'c', 'M', 'c', 'c', 'c', 'c', 'T', 'B', 'T', 'T', 'G', 'c', 'M', 'T', 'T', 'B', 'T', 'G']
+Character o:
+Accuracy: 0.0
+['E', 'O', 'O', 'O', 'E', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Character p:
+Accuracy: 15.0
+['G', 'p', 'c', 'p', 'c', 'G', 'c', 'O', 'c', 'c', 'G', 'F', 'c', 'c', 'G', 'Y', 'p', 'c', 'c', 'c']
+Character q:
+Accuracy: 0.0
+['c', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'Y', 'c', 'c', 'c', 'T', 'c', 'c', 'c', 'c', 'c', 'c']
+Character r:
+Accuracy: 0.0
+['p', 'c', 'T', 'c', 'T', 'c', 'G', 'T', 'T', 'T', 'B', 'c', 'B', 'T', 'G', 'G', 'O', 'c', 'F', 'G']
+Character s:
+Accuracy: 0.0
+['c', 'O', 'c', 'T', 'T', 'e', 'T', 'T', 'Q', 'T', 'c', 'c', 'T', 'T', 'T', 'T', 'T', 'B', 'O', 'Q']
+Character t:
+Accuracy: 0.0
+['c', 'O', 'T', 'c', 'T', 'c', 'S', 'B', 'c', 'T', 'a', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'B']
+Character u:
+Accuracy: 5.0
+['u', 'T', 'T', 'U', 'T', 'c', 'T', 'L', 'T', 'T', 'U', 'U', 'T', 'U', 'U', 'c', 'T', 'c', 'U', 'U']
+Character v:
+Accuracy: 20.0
+['c', 'c', 'O', 'c', 'T', 'c', 'c', 'v', 'c', 'B', 'c', 'v', 'c', 'v', 'c', 'c', 'U', 'T', 'c', 'v']
+Character w:
+Accuracy: 0.0
+['T', 'B', 'c', 'U', 'c', 'c', 'c', 'T', 'c', 'T', 'T', 'T', 'c', 'U', 'c', 'T', 'T', 'c', 'L', 'U']
+Character x:
+Accuracy: 0.0
+['c', 'c', 'c', 'T', 'n', 'c', 'T', 'c', 'c', 'T', 'c', 'a', 'c', 'T', 'T', 'T', 'c', 'c', 'T', 'T']
+Character y:
+Accuracy: 0.0
+['B', 'O', 'G', 'c', 'c', 'B', 'c', 'c', 'c', 'A', 'T', 'T', 'c', 'T', 'c', 'c', 'T', 'c', 'c', 'c']
+Character z:
+Accuracy: 0.0
+['T', 'c', 'T', 'Q', 'Q', 'c', 'T', 'T', 'c', 'E', 'e', 'J', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'E']
+Wrote profile results to profCharHmm.py.lprof
+Timer unit: 1e-06 s
+
+Total time: 0 s
+File: ../api/base/charClassifier.py
+Function: test_martiBunkeFeatureWithClassifier at line 300
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+   300                                               @profile            
+   301                                               def test_martiBunkeFeatureWithClassifier(self):
+   302                                                   #test with just two letters so A and B are copied to a
+   303                                                   #special dir that is deleted after the test
+   304                                                   cwd      = os.path.dirname(os.path.realpath(__file__));
+   305                                                   test_dir = os.path.join(cwd, '../../ut_charClassifier')
+   306                                                   
+   307                                                   
+   308                                                   if(1):
+   309                                                       extractor = martiBunkeFeatureExtractor(nr_of_divisions=7,kMeans_k=10)
+   310                                                   else:
+   311                                                       extractor = martiBunkeFeatureExtractor(nr_of_divisions=14,kMeans_k=10)
+   312                                                   
+   313                                                   #Extract features
+   314                                                   training_examples, test_examples = extractor.extractTrainingAndTestingFeatures(test_dir,
+   315                                                                                                                                  100,
+   316                                                                                                                                  20,
+   317                                                                                                                                  test_repeat=True)
+   318                                                   #print("training examples", training_examples)
+   319                                                   #print("testing examples", test_examples)
+   320                                                   #sys.exit(0)
+   321                                                   
+   322                                                   db_StallExec(0)
+   323                                                   classifier = CharacterClassifier(training_examples,
+   324                                                                                    nr_of_hmms_to_try = 1,
+   325                                                                                    fraction_of_examples_for_test = 0,
+   326                                                                                    feature_extractor=extractor)
+   327                                                   
+   328                                                   db_StallExec(0)
+   329                                                   for example in test_examples:
+   330                                                       l_example = list(example)
+   331                                                       orig_char = l_example[0]
+   332                                                       l_example = l_example[1]
+   333                                                       cnt = 0
+   334                                                       n_elm = len(l_example)
+   335                                                       classified_char=[]
+   336                                                       
+   337                                                       for string in l_example:
+   338                                                           char = classifier.classifyCharacterString(string)
+   339                                                           classified_char.append(char)
+   340                                                           if(char == orig_char):
+   341                                                               cnt += 1
+   342                                                       
+   343                                                       print('Character '+orig_char+':')
+   344                                                       print('Accuracy: ' + str(cnt*100.0/n_elm))
+   345                                                       print(classified_char)
+
+Total time: 645.548 s
+File: ../api/base/hmm.py
+Function: calculateForward at line 79
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+    79                                               @profile
+    80                                               def calculateForward(self, O):
+    81     96918       513837      5.3      0.1          self.scaling_factor = []
+    82     96918       194657      2.0      0.0          T = len(O)
+    83     96918       748925      7.7      0.1          alpha = np.zeros((T,self.N))
+    84                                                   #initialization
+    85     96918       115143      1.2      0.0          t = 0
+    86    969180      3436176      3.5      0.5          alpha[t] = [self.pi[i] * self.B[i][O[t]] for i in range(self.N)]   
+    87                                                   
+    88     96918       230881      2.4      0.0          def appendScalingFactor_t(t):
+    89                                                       sum_alpha = sum(alpha[t-1])
+    90                                                       if(sum_alpha==0):
+    91                                                           self.scaling_factor.append(1)
+    92                                                       else:
+    93                                                           self.scaling_factor.append(1.0/sum_alpha)
+    94                                                   
+    95                                                   #induction         
+    96   1529820      1924199      1.3      0.3          for t in range(1,T):
+    97   1432902     25110976     17.5      3.9              appendScalingFactor_t(t)
+    98  14329020     43356182      3.0      6.7              alpha[t-1] = [self.scaling_factor[-1] * alpha[t-1][i] for i in range(self.N)]
+    99  14329020     16870596      1.2      2.6              for j in range(self.N):
+   100  12896118     13998224      1.1      2.2                  prob_sum = 0  
+   101 128961180    148199508      1.1     23.0                  for i in range(self.N):    
+   102 116065062    350487932      3.0     54.3                      prob_sum += alpha[t-1][i] * self.A[i][j]
+   103                                                           #self.log.debug('t is ' + str(t) + ', i = ' + str(i) + ', j = ' +str(j) + ', O[t] = ' + str(O[t]) + ', prob_sum = ' + str(prob_sum) + ', B[j][O[t]] = ' + str(self.B[j][O[t]]))
+   104  12896118     34435741      2.7      5.3                  alpha[t][j] = prob_sum * self.B[j][O[t]]
+   105     96918      2217758     22.9      0.3          appendScalingFactor_t(T)
+   106    969180      3598957      3.7      0.6          alpha[T-1] = [self.scaling_factor[-1] * alpha[T-1][i] for i in range(self.N)]
+   107     96918       107825      1.1      0.0          return alpha
+
+Total time: 304.719 s
+File: ../api/base/hmm.py
+Function: calculateBackward at line 109
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+   109                                               @profile
+   110                                               def calculateBackward(self, O):
+   111       369          489      1.3      0.0          T = len(O)
+   112       369    186882223 506455.9     61.3          self.calculateForward(O)
+   113       369        20626     55.9      0.0          beta = np.zeros((T, self.N))
+   114       369          387      1.0      0.0          scaling_factor = self.scaling_factor
+   115                                                   #initialization
+   116      3690         3344      0.9      0.0          for i in range(self.N):
+   117      3321         3847      1.2      0.0              beta[T-1][i] = 1.0
+   118                                                   #self.log.debug(' beta is ' + str(beta))
+   119                                                   
+   120                                                   #induction
+   121    332100       235594      0.7      0.1          for t in range(T-2, -1, -1):
+   122   3317310      2543769      0.8      0.8              for i in range(self.N):
+   123   2985579      1978356      0.7      0.6                  prob_sum = 0
+   124  29855790     22463545      0.8      7.4                  for j in range(self.N):
+   125                                                               #print('scaling_factor=' + str(scaling_factor))
+   126  26870211     86848132      3.2     28.5                      prob_sum += self.A[i][j] * (scaling_factor[t+1] *self.B[j][O[t+1]]) * beta[t+1][j]
+   127   2985579      3737936      1.3      1.2                  beta[t][i] = prob_sum
+   128                                                   #self.log.debug(' beta is ' + str(beta))
+   129       369          332      0.9      0.0          return beta
+
+Total time: 1590.29 s
+File: ../api/base/hmm.py
+Function: baumWelch at line 170
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+   170                                               @profile    
+   171                                               def baumWelch(self, O):
+   172                                                   ''' Call with a sequence of observations, e.g. O = [0,1,0,1]. The function will
+   173                                                       calculate new model paramters according the baum welch formula. Will update
+   174                                                       pi.
+   175                                                   '''
+   176                                                   # Note, there is no scaling in this implementation !
+   177       369    185459308 502599.8     11.7          alpha = self.calculateForward(O)
+   178       369    355507467 963434.9     22.4          beta = self.calculateBackward(O)
+   179                                           
+   180                                                   # We need to calculate the xi and gamma tables before can find the update values
+   181       369        49140    133.2      0.0          xi = np.zeros((len(O) - 1, self.N, self.N))
+   182       369         6959     18.9      0.0          gamma = np.zeros((len(O) - 1, self.N))
+   183                                                  
+   184                                                   # Begin with xi
+   185    332100       273593      0.8      0.0          for t in range(len(O) - 1):
+   186    331731       270368      0.8      0.0              s = 0
+   187   3317310      2693300      0.8      0.2              for i in range(self.N):
+   188  29855790     23207146      0.8      1.5                  for j in range(self.N):
+   189                                                               #self.log.debug(' t = ' + str(t) + ', i = ' + str(i) + ', j = ' +str(j))
+   190  26870211    106286451      4.0      6.7                      xi[t][i][j] = alpha[t][i] * self.A[i][j] * self.B[j][O[t+1]] * beta[t+1][j]
+   191  26870211     52179961      1.9      3.3                      s += xi[t][i][j]
+   192                                                       # Normalize
+   193   3317310      2586042      0.8      0.2              for i in range(self.N):
+   194  29855790     24558612      0.8      1.5                  for j in range(self.N):
+   195  26870211     87431697      3.3      5.5                      xi[t][i][j] *= 1/s
+   196                                           
+   197                                                   # Now calculate the gamma table
+   198    332100       248085      0.7      0.0          for t in range(len(O) - 1):
+   199   3317310      2491578      0.8      0.2              for i in range(self.N):
+   200   2985579      2224052      0.7      0.1                  s = 0
+   201  29855790     23240184      0.8      1.5                  for j in range(self.N):
+   202  26870211     54506094      2.0      3.4                      s += xi[t][i][j]
+   203   2985579      3660707      1.2      0.2                  gamma[t][i] = s
+   204                                                   # Update model parameters
+   205                                                   # Update pi
+   206      3690         2490      0.7      0.0          for i in range(self.N):
+   207      3321         4550      1.4      0.0              self.pi[i] = gamma[0][i]
+   208                                                   # Update A
+   209                                                   #print 'Updating A'
+   210      3690         2797      0.8      0.0          for i in range(self.N):
+   211     33210        60173      1.8      0.0              for j in range(self.N):
+   212     29889        21609      0.7      0.0                  numerator = 0
+   213     29889        18963      0.6      0.0                  denominator = 0
+   214  26900100     21819556      0.8      1.4                  for t in range(len(O) - 1):
+   215  26870211     54067429      2.0      3.4                      numerator += xi[t][i][j]
+   216  26870211     43767451      1.6      2.8                      denominator += gamma[t][i]
+   217     29889       122395      4.1      0.0                  self.A[i][j] = numerator / denominator
+   218                                                   # Update B
+   219      3690         4142      1.1      0.0          for j in range(self.N):
+   220    182655       215606      1.2      0.0              for k in range(self.K):
+   221    179334       133213      0.7      0.0                  numerator = 0
+   222    179334       153937      0.9      0.0                  denominator = 0
+   223 161400600    131722652      0.8      8.3                  for t in range(len(O) - 1):
+   224 161221266    130685722      0.8      8.2                      if O[t] == k:
+   225   2985579      5335425      1.8      0.3                          numerator += gamma[t][j]
+   226 161221266    273370180      1.7     17.2                      denominator += gamma[t][j]
+   227    179334      1900569     10.6      0.1                  self.B[j][k] = numerator / denominator
+
+Total time: 0 s
+File: ../api/base/hmm.py
+Function: baumWelchBakis at line 229
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+   229                                               @profile
+   230                                               def baumWelchBakis(self, O):
+   231                                                   ''' Call with a list of sequences of observations, e.g. O = [[0,1,0], [0,1,1]].
+   232                                                       This is an implemenation of equations 109 and 110 in Rabiner. Will NOT update
+   233                                                       pi as it assumed that the model is a bakis left-to-right model.'''
+   234                                                   alpha = []
+   235                                                   beta = []
+   236                                                   P = []
+   237                                                   K = len(O)
+   238                                                   
+   239                                                   for k in range(K):
+   240                                                       alpha.append(self.calculateForward(O[k]))
+   241                                                       beta.append(self.calculateBackward(O[k]))
+   242                                                       final_prob = 0
+   243                                                       T = len(O[k])
+   244                                                       
+   245                                                       for i in range(self.N):
+   246                                                           final_prob += alpha[k][T-1][i]
+   247                                                       P.append(final_prob)
+   248                                                   
+   249                                                   # Update A
+   250                                                   for i in range(self.N):
+   251                                                       for j in range(self.N):
+   252                                                           sum_numerator = 0
+   253                                                           sum_denominator = 0
+   254                                                           for k in range(K):
+   255                                                               # Calculate the numerator
+   256                                                               T = len(O[k])
+   257                                                               s = 0
+   258                                                               for t in range(T - 1):
+   259                                                                   s += alpha[k][t][i] * self.A[i][j] * self.B[j][O[k][t+1]] * beta[k][t+1][j]
+   260                                                               sum_numerator += 1.0 / P[k] * s
+   261                                                               # Calculate the denominator
+   262                                                               s = 0
+   263                                                               for t in range(T - 1):
+   264                                                                   s += alpha[k][t][i] * beta[k][t][i]
+   265                                                               sum_denominator += 1.0 / P[k] * s
+   266                                                           
+   267                                                           # Hack to avoid division by zero and scaling issues
+   268                                                           if sum_denominator != 0.0:
+   269                                                               self.A[i][j] = sum_numerator / sum_denominator
+   270                                                       
+   271                                                       self.A[i] = (self.A[i]/np.sum(self.A[i])).tolist()
+   272                                                       
+   273                                           
+   274                                                   # Update B
+   275                                                   for j in range(self.N):
+   276                                                       for l in range(self.K):
+   277                                                           sum_numerator = 0
+   278                                                           sum_denominator = 0
+   279                                                           for k in range(K):
+   280                                                               # Calculate the numerator
+   281                                                               T = len(O[k])
+   282                                                               s = 0.0
+   283                                                               for t in range(T - 1):
+   284                                                                   if O[k][t] == l:
+   285                                                                       s += alpha[k][t][j] * beta[k][t][j]
+   286                                                               sum_numerator += 1.0 / P[k] * s
+   287                                                               # Calculate the denominator
+   288                                                               s = 0.0
+   289                                                               for t in range(T - 1):
+   290                                                                   s += alpha[k][t][j] * beta[k][t][j]
+   291                                                               sum_denominator += 1.0 / P[k] * s
+   292                                                           
+   293                                                           # Hack to avoid division by zero and scaling issues
+   294                                                           if sum_denominator != 0.0:
+   295                                                               self.B[j][l] = sum_numerator / sum_denominator
+   296                                                           
+   297                                                       self.B[j] = (self.B[j]/np.sum(self.B[j])).tolist()
+
+Total time: 140.263 s
+File: ../api/features/martibunke.py
+Function: getMBFeatures at line 41
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+    41                                               @profile
+    42                                               def getMBFeatures(self, imgStrip):
+    43                                                   
+    44     43680        92041      2.1      0.1          def getF1(imgCol):
+    45                                                       val = np.average(imgCol)
+    46                                                       return val
+    47                                                   
+    48     43680        76250      1.7      0.1          def getF2(nRows,imgCol):
+    49                                                       imgWeigted = np.array(range(nRows)) * imgCol
+    50                                                       val = np.average(imgWeigted)
+    51                                                       return val
+    52                                                   
+    53     43680        74628      1.7      0.1          def getF3(nRows,imgCol):
+    54                                                       imgWeigted = np.array(range(nRows)) * np.array(range(nRows)) * imgCol
+    55                                                       val = np.sum(imgWeigted)/(nRows*nRows)
+    56                                                       return val
+    57                                                   
+    58     43680        77640      1.8      0.1          def getF4F5(imgCol,th):
+    59                                                       idx = np.nonzero(imgCol <= th)
+    60                                                       if(np.size(idx) > 0):
+    61                                                           upperContour,lowerContour = (np.min(idx), np.max(idx))
+    62                                                       else:
+    63                                                           upperContour,lowerContour = (np.size(imgCol)-1,0)
+    64                                                       return (upperContour,lowerContour)
+    65                                                   
+    66     43680        78520      1.8      0.1          def getF6F7(imgCol,uContour,lContour):
+    67                                                       if(uContour > 0):
+    68                                                           gradUC = imgCol[uContour-1] - imgCol[uContour]
+    69                                                       else:
+    70                                                           gradUC = 1.0 - imgCol[uContour] #Assume adjacent pixel to border as BG
+    71                                                       if(lContour < np.size(imgCol)-1):
+    72                                                           gradLC = imgCol[lContour+1] - imgCol[lContour]
+    73                                                       else:
+    74                                                           gradLC = 1.0 - imgCol[lContour] #Assume adjacent pixel to border as BG
+    75                                                       return (gradUC,gradLC)
+    76                                                   
+    77     43680        73305      1.7      0.1          def getF8(imgCol,th):
+    78                                                       imgCol = (imgCol > th).astype(int)
+    79                                                       imgCol1 = (imgCol[1:]).tolist()
+    80                                                       imgCol1.append(imgCol[-1])
+    81                                                       imgCol1 = np.array(imgCol1)
+    82                                                       val = np.nonzero(imgCol1 - imgCol)
+    83                                                       return (np.size(val))
+    84                                                   
+    85     43680        78127      1.8      0.1          def getF9(imgCol,uContour,lContour,th):
+    86                                                       imgCol = (imgCol < th).astype(int)
+    87                                                       if(uContour < lContour):
+    88                                                           img    = imgCol[uContour:lContour]
+    89                                                       else:
+    90                                                           img    = imgCol[lContour:uContour] #Case when no FG pixels detected
+    91                                                       val    = np.size(np.nonzero(img))/(np.abs(uContour-lContour)+1.0)
+    92                                                       return (val)
+    93                                                   
+    94                                                   #Normalization check
+    95     43680       998323     22.9      0.7          if (np.max(imgStrip) > 1.0):
+    96     43680       699473     16.0      0.5              imgStrip  = imgStrip / 255.0
+    97     43680        97982      2.2      0.1              threshold = self.otsu_threshold/255.0 
+    98                                                   
+    99                                                   #db_StallExec(1)
+   100                                                   
+   101     43680       151355      3.5      0.1          nRows, nCols = np.shape(imgStrip)
+   102                                                   
+   103     43680        78812      1.8      0.1          mbFeat4Strip = []
+   104    655200      1304531      2.0      0.9          for j in range(nCols):            
+   105    611520      2758306      4.5      2.0              column = imgStrip[:,j]
+   106    611520     17770184     29.1     12.7              f1     = getF1(column)
+   107    611520     25280523     41.3     18.0              f2     = getF2(nRows,column)
+   108    611520     23046706     37.7     16.4              f3     = getF3(nRows,column)
+   109    611520     23560053     38.5     16.8              f4,f5  = getF4F5(column,threshold)
+   110    611520      5905712      9.7      4.2              f6,f7  = getF6F7(column,f4,f5)
+   111    611520     19353018     31.6     13.8              f8     = getF8(column,threshold)
+   112    611520     14558748     23.8     10.4              f9     = getF9(column,f4,f5,threshold)
+   113                                                       
+   114    611520      1595407      2.6      1.1              mbFeat4Strip.append([f1,f2,f3,f4,f5,f6,f7,f8,f9])
+   115                                                   #db_StallExec(1)
+   116     43680      1025462     23.5      0.7          mbFeat4Strip = np.array(mbFeat4Strip)
+   117     43680      1393279     31.9      1.0          mbFeat4Strip = np.mean(mbFeat4Strip, 0)
+   118     43680       134900      3.1      0.1          return (mbFeat4Strip.tolist())
+
+Total time: 160.079 s
+File: ../api/features/martibunke.py
+Function: extractMartiBunkeTuple at line 120
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+   120                                               @profile
+   121                                               def extractMartiBunkeTuple(self,buffered_image):
+   122      6240        13534      2.2      0.0          if(len(buffered_image.shape)==3):
+   123      6240       137139     22.0      0.1              img = cv2.cvtColor(buffered_image,cv2.COLOR_RGB2GRAY)
+   124                                               
+   125      6240       220866     35.4      0.1          _,img = cv2.threshold(img,0,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU)            
+   126      6240       944046    151.3      0.6          scaled_image = scaleToFill(img,(100,100))
+   127      6240       211156     33.8      0.1          self.otsu_threshold,_ = cv2.threshold(scaled_image,0,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU)
+   128                                                   
+   129                                                   #db_StallExec(1)
+   130      6240       177082     28.4      0.1          segments = divideIntoSegments(self.nr_of_divisions, scaled_image)
+   131                                                   #Get component sizes for the segments
+   132      6240         3972      0.6      0.0          tuples_for_segments = [self.getMBFeatures(s)
+   133     49920    158327784   3171.6     98.9                                   for s in segments]
+   134                                                   #db_StallExec(1)
+   135      6240        43404      7.0      0.0          return np.array(tuples_for_segments)
+
+Total time: 3017.73 s
+File: profCharHmm.py
+Function: test_martiBunkeFeatureWithClassifier at line 18
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+    18                                           @profile            
+    19                                           def test_martiBunkeFeatureWithClassifier():
+    20                                               #test with just two letters so A and B are copied to a
+    21                                               #special dir that is deleted after the test
+    22         1           76     76.0      0.0      cwd      = os.path.dirname(os.path.realpath(__file__));
+    23         1            4      4.0      0.0      test_dir = os.path.join(cwd, '../ut_charClassifier')
+    24                                               
+    25                                               
+    26                                               if(1):
+    27         1            4      4.0      0.0          extractor = martiBunkeFeatureExtractor(nr_of_divisions=7,kMeans_k=10)
+    28                                               else:
+    29                                                   extractor = martiBunkeFeatureExtractor(nr_of_divisions=14,kMeans_k=10)
+    30                                               
+    31                                               #Extract features
+    32         1            1      1.0      0.0      training_examples, test_examples = extractor.extractTrainingAndTestingFeatures(test_dir,
+    33         1            1      1.0      0.0                                                                                     100,
+    34         1            0      0.0      0.0                                                                                     20,
+    35         1    164009905 164009905.0      5.4                                                                                     test_repeat=True)
+    36                                               #print("training examples", training_examples)
+    37                                               #print("testing examples", test_examples)
+    38                                               #sys.exit(0)
+    39                                               
+    40         1            4      4.0      0.0      db_StallExec(0)
+    41         1            1      1.0      0.0      classifier = CharacterClassifier(training_examples,
+    42         1            1      1.0      0.0                                       nr_of_hmms_to_try = 1,
+    43         1            1      1.0      0.0                                       fraction_of_examples_for_test = 0,
+    44         1   2393157256 2393157256.0     79.3                                       feature_extractor=extractor)
+    45                                               
+    46         1            4      4.0      0.0      db_StallExec(0)
+    47        53           94      1.8      0.0      for example in test_examples:
+    48        52          195      3.8      0.0          l_example = list(example)
+    49        52           63      1.2      0.0          orig_char = l_example[0]
+    50        52           68      1.3      0.0          l_example = l_example[1]
+    51        52           54      1.0      0.0          cnt = 0
+    52        52           79      1.5      0.0          n_elm = len(l_example)
+    53        52           83      1.6      0.0          classified_char=[]
+    54                                                   
+    55      1092         1764      1.6      0.0          for string in l_example:
+    56      1040    460550687 442837.2     15.3              char = classifier.classifyCharacterString(string)
+    57      1040         2696      2.6      0.0              classified_char.append(char)
+    58      1040         1691      1.6      0.0              if(char == orig_char):
+    59        87          128      1.5      0.0                  cnt += 1
+    60                                                   
+    61        52          485      9.3      0.0          print('Character '+orig_char+':')
+    62        52          526     10.1      0.0          print('Accuracy: ' + str(cnt*100.0/n_elm))
+    63        52         1170     22.5      0.0          print(classified_char)
+

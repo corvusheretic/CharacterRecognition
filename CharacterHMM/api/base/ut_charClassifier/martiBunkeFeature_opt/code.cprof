@@ -1,0 +1,30 @@
+   Random listing order was used
+
+======================BA_7_13_k10======================
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       52    0.088    0.002  153.927    2.960 ../../api/features/martibunke.py:134(extractMartiBunkeTuplesForDir)
+    97980    0.473    0.000  156.406    0.002 ../../api/base/hmm.py:124(obsProbability)
+        1    0.000    0.000  728.761  728.761 ../../api/base/wordClassifier.py:24(__init__)
+        1    0.004    0.004  979.044  979.044 charClassifier.py:297(test_martiBunkeFeatureWithClassifier)
+   175380  227.024    0.001  261.852    0.001 ../../api/base/hmm.py:74(calculateForward)
+        1    0.000    0.000  728.761  728.761 charClassifier.py:32(__init__)
+        1    0.001    0.001  156.214  156.214 ../../api/features/martibunke.py:187(extractTrainingAndTestingFeatures)
+      387  349.192    0.902  664.352    1.717 ../../api/base/hmm.py:222(baumWelchBakis)
+    38700   49.661    0.001  248.198    0.006 ../../api/base/hmm.py:103(calculateBackward)
+    43680    7.741    0.000  148.000    0.003 ../../api/features/martibunke.py:40(getMBFeatures)
+     6240    0.294    0.000  150.132    0.024 ../../api/features/martibunke.py:118(extractMartiBunkeTuple)
+        1    0.000    0.000  728.761  728.761 ../../api/base/wordClassifier.py:60(train)
+      387    0.032    0.000  664.626    1.717 ../../api/base/DNASeqHMM.py:149(trainBaumWelchBakis)
+       52    0.007    0.000  720.875   13.863 ../../api/base/DNASeqHMM.py:156(trainUntilStop)
+       52    0.001    0.000  728.761   14.015 ../../api/base/wordClassifier.py:86(createHmmForWord)
+    54519    0.372    0.000  157.932    0.003 ../../api/base/DNASeqHMM.py:192(apply)
+
+======================BA_7_13_k20======================
+     1040    0.006    0.000  110.484    0.106 charClassifier.py:76(classifyCharacterString)
+
+======================BW_7_13_k10======================
+      369  295.492    0.801  467.961    1.268 ../../api/base/hmm.py:163(baumWelch)
+      369    0.096    0.000  468.287    1.269 ../../api/base/DNASeqHMM.py:143(trainBaumWelch)
+
+======================BW_7_13_k20======================
+

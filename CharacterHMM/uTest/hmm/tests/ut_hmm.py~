@@ -1,0 +1,83 @@
+'''
+Created on Nov 4, 2015
+
+@author: kalyan
+'''
+import unittest
+from api.hmm import HMM
+import logging
+import numpy as np
+import os.path
+
+class TestHMM_robotToy(unittest.TestCase):
+    
+    def to_index(self,alphabet_str):
+        '''
+        Returns a indices representation of the HMM o/p string
+        '''
+        return map(lambda x: self.V.index(x), alphabet_str)
+    
+    def setUp(self):
+        cwd     = os.path.dirname(os.path.realpath(__file__));
+        self.DataDir = os.path.join(cwd, '../data');
+        
+        # --- Test 01: Toy robot movement with no momentum
+        self.V = ['r','g','b','y']
+        self.O = []
+        self.fname_momentum = os.path.join(self.DataDir,'robot_no_momemtum.data');
+        
+        self.pi = np.random.rand(16,1)
+        self.A  = np.random.rand(16,16)
+        self.B  = np.random.rand(16,4)
+        
+        # Normalize matrix pi 
+        cumsum = np.sum(self.pi, 1)
+        cumsum = np.tile(cumsum, (1,np.size(self.pi, 1)))
+        self.pi = self.pi / cumsum
+        # Normalize matrix A
+        cumsum = np.sum(self.A, 1)
+        cumsum = np.tile(cumsum, (1,np.size(self.A, 1)))
+        self.A = self.A / cumsum
+        # Normalize matrix B
+        cumsum = np.sum(self.B, 1)
+        cumsum = np.tile(cumsum, (1,np.size(self.B, 1)))
+        self.B = self.B / cumsum
+        
+        self.h = HMM(self.pi, self.A, self.B, self.V)
+        
+        self.h.to_string()
+        
+    def test_baum_welch(self):
+        
+        '''Train HMM on 200 sequences'''
+        if(os.path.isfile(self.fname_momentum)):            
+            n_seq = 0
+            with open(self.fname_momentum) as f:
+                for line in f:
+                    if (line != '.'):
+                        self.O.append(line.split(' ')[1])
+                    else:
+                        if(n_seq < 200):
+                            # Training HMM
+                            n_seq += 1
+                            self.O = self.to_index(self.O)
+                            
+                            self.h.log.setLevel(logging.INFO)
+                            self.h.baum_welch(self.O)
+                            self.O = [] # Reset obs. seq. for next training set
+                        else:
+                            # Testing HMM
+                            n_seq += 1
+                            self.O = self.to_index(self.O)
+                            
+                            self.h.log.setLevel(logging.INFO)
+                            self.h.baum_welch(self.O)
+                            self.O = [] # Reset obs. seq. for next training set
+                            
+        else:
+            print('ERROR: Unable to find file :'+str(self.fname_momentum))
+            
+if __name__ == "__main__":
+    import sys
+    sys.path.append("../../../api")
+    unittest.main()
