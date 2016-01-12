@@ -119,7 +119,7 @@ class TestCharacterClassifier(unittest.TestCase):
     hmmTopology = 'bw'
     featExt     = 'mb'
     dataSet     = 'ucc'
-    '''
+    
     def setUp(self):
         """init each test"""
         #self.testtree = SplayTree (1000000)
@@ -134,7 +134,7 @@ class TestCharacterClassifier(unittest.TestCase):
         #p.sort_stats ('cumtime')
         p.print_stats ()
         print "\n--->>>"
-    '''
+    
 
     def getExampleImage(self):
         cwd         = os.path.dirname(os.path.realpath(__file__))
@@ -437,14 +437,14 @@ class TestCharacterClassifier(unittest.TestCase):
                                                    kMeans_k=int(TestCharacterClassifier.nKMClasses),
                                                    blksize=100)
             #Extract features
-            #training_examples, test_examples = extractor.extractTrainingAndTestingFeatures(test_dir,
-            #                                                                               nTrainingEx,
-            #                                                                               nTestingEx,
-            #                                                                               test_repeat=True)
-            training_examples, test_examples = extractor.batchModeTrainingAndTestingFeatures(test_dir,
+            training_examples, test_examples = extractor.extractTrainingAndTestingFeatures(test_dir,
                                                                                            nTrainingEx,
                                                                                            nTestingEx,
                                                                                            test_repeat=True)
+            #training_examples, test_examples = extractor.batchModeTrainingAndTestingFeatures(test_dir,
+            #                                                                               nTrainingEx,
+            #                                                                               nTestingEx,
+            #                                                                               test_repeat=True)
         if(TestCharacterClassifier.hmmTopology == 'bw'):
             print('charClassifier# :: Baum-Welch topology selected.')
         if(TestCharacterClassifier.hmmTopology == 'bk'):
